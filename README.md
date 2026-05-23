@@ -14,10 +14,16 @@ A Chrome extension that detects phishing and suspicious websites in real time to
 
 ## 🚀 Features
 
-## 🚀 Preview
+
 
 <p align="center">
-  <img src="https://via.placeholder.com/900x400.png?text=Phishing+Detector+Extension+Preview" alt="preview banner" />
+
+<img src="https://img.shields.io/badge/🔍-Phishing%20Detection-green?style=for-the-badge" />
+<img src="https://img.shields.io/badge/⚡-Real%20Time%20Checking-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/👤-User%20Friendly-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🚀-Fast%20&%20Lightweight-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🔒-Safe%20Browsing-red?style=for-the-badge" />
+
 </p>
 
 - 🛡️ Detect phishing URLs in real-time  
@@ -37,17 +43,13 @@ A Chrome extension that detects phishing and suspicious websites in real time to
 
 ## 📥 Installation
 
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/messi116/phishing-detector-extension.git
-
-
-   Open Chrome → chrome://extensions/
+1. Clone the repository
+```bash
+git clone https://github.com/messi116/phishing-detector-extension.git
+Open Chrome → chrome://extensions/
 Enable Developer Mode
 Click Load Unpacked
-Select project folder
-
-
+Select the project folder
 
 
 ---
@@ -56,12 +58,16 @@ Select project folder
 
 Add icons + center align:
 
-```md id="style1"
 <p align="center">
-  <b>Keep browsing safe 🚀</b>
+  <b>🛡️ Keep browsing safe 🚀</b>
 </p>
 
 
+
+## 📌 Project Status
+
+🟢 Active Development  
+🔄 More features coming soon  
 
 
 
