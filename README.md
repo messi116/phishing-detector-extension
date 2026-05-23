@@ -43,25 +43,34 @@ A Chrome extension that detects phishing and suspicious websites in real time to
 
 ## 📥 Installation
 
-1. Clone the repository
-```bash
+## 📥 Installation (Windows)
+
+### 1. Clone the repository (CMD / PowerShell)
+
 git clone https://github.com/messi116/phishing-detector-extension.git
-Open Chrome → chrome://extensions/
-Enable Developer Mode
-Click Load Unpacked
-Select the project folder
 
+### 2. Open Chrome Extensions page
 
----
+Go to:
+chrome://extensions/
+
+### 3. Enable Developer Mode
+
+Toggle **Developer Mode** (top right corner)
+
+### 4. Load Extension
+
+Click **Load Unpacked**
+
+### 5. Select Project Folder
+
+Choose the cloned repository folder
 
 # 💡 STEP 7: EXTRA PROFESSIONAL LOOK (optional but powerful)
-
-Add icons + center align:
 
 <p align="center">
   <b>🛡️ Keep browsing safe 🚀</b>
 </p>
-
 
 
 ## 📌 Project Status
